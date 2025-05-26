@@ -57,7 +57,7 @@ As the <b>project lead and core developer</b>, I am currently directing the deve
 
 ## 🧰 Tech Toolbox
 
-```bash
+
 Languages: Python, JavaScript, C, C++, Assembly
 Frameworks: Flask, ExpressJS, React, Tailwind
 Libraries: Sklearn, PyTorch, Transformers, matplotlib, panda, numpy
@@ -68,3 +68,16 @@ Infra: PostgreSQL, MongoDB, S3, Linux
 LinkedIn: www.linkedin.com/in/theanhnguyen-cybersecurity
 
 Email: theanhnguyen16025@gmail.com
+
+
+
+### 🤝 Let's Collaborate!
+I’m always open to connecting with fellow researchers, developers, and security enthusiasts who share the same passion for:
+
+🤖 Applying AI in Information Security (malware detection, threat analysis, AI privacy)
+
+🔗 Exploring Blockchain applications in Cybersecurity (tracing, zero-knowledge proofs, secure data sharing)
+
+Feel free to reach out if you're interested in research discussions, open-source collaboration, or just exchanging ideas!
+
+📬 You can connect with me via GitHub, LinkedIn, or email — I’d love to chat!
