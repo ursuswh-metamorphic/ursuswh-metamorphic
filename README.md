@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm <The Anh>!</h1>
+<h1 align="center">👋 Hi there, I'm The Anh!</h1>
 
 <p align="center">
   <b>AI for Cybersecurity | Research Project Leader | Malware & Web Vulnerability Analyst</b><br>
