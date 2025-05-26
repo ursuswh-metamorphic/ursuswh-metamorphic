@@ -58,16 +58,30 @@ As the <b>project lead and core developer</b>, I am currently directing the deve
 ## 🧰 Tech Toolbox
 
 
-Languages: Python, JavaScript, C, C++, Assembly
-Frameworks: Flask, ExpressJS, React, Tailwind
-Libraries: Sklearn, PyTorch, Transformers, matplotlib, panda, numpy
-Tools: Wireshark, Suricata, Docker, Nmap, Cybersecurity based tools
-Infra: PostgreSQL, MongoDB, S3, Linux
-📫 Let’s Connect!
+> - Languages: Python, JavaScript, C, C++, Assembly
+> - Frameworks: Flask, ExpressJS, React, Tailwind
+> - Libraries: Sklearn, PyTorch, Transformers, matplotlib, panda, numpy
+> - Tools: Wireshark, Suricata, Docker, Nmap, Cybersecurity based tools
+> - Infra: PostgreSQL, MongoDB, S3, Linux
 
-LinkedIn: www.linkedin.com/in/theanhnguyen-cybersecurity
+---
 
-Email: theanhnguyen16025@gmail.com
+### 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/theanhnguyen-cybersecurity/)
+[![Email](https://img.shields.io/badge/theanhnguyen16025@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theanhnguyen16025@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=LeetCode&logoColor=yellow)](https://leetcode.com/u/eng6bear2wh5/)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ursus-metamorphic&show_icons=true&theme=radical&count_private=true&custom_title=Phan%20Duc%20Anh's%20GitHub%20Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ursus-metamorphic&layout=compact&theme=radical" height="180"/>
+</div>
+
+---
 
 
 
