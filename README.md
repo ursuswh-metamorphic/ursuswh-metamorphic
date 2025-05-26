@@ -77,8 +77,8 @@ As the <b>project lead and core developer</b>, I am currently directing the deve
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ursus-metamorphic&show_icons=true&theme=radical&count_private=true&custom_title=Phan%20Duc%20Anh's%20GitHub%20Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ursus-metamorphic&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ursuswh-metamorphic&show_icons=true&theme=radical&count_private=true&custom_title=Nguyen%20The%20Anh's%20GitHub%20Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ursuswh-metamorphic&layout=compact&theme=radical" height="180"/>
 </div>
 
 ---
