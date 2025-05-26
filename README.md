@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm <Your Name>!</h1>
+<h1 align="center">👋 Hi there, I'm <The Anh>!</h1>
 
 <p align="center">
   <b>AI for Cybersecurity | Research Project Leader | Malware & Web Vulnerability Analyst</b><br>
@@ -24,27 +24,27 @@ I'm passionate about designing systems that are both <b>intelligent by design</b
 
 As the <b>project lead and core developer</b>, I am currently directing the development of the following applied research projects:
 
-### 🏥 Hybrid ABE + AES for Cloud EHR Protection
+### 🏥 Hybrid ABE + AES for Cloud EHR Protection - Role: Leader
 > Leading the design of a secure <b>hybrid encryption system</b> using <b>CP-ABE + AES</b> to protect Electronic Health Records in cloud infrastructure.  
-> ⚙️ Tech Stack: Flask, PostgreSQL, Charm-Crypto, AWS S3
+> ⚙️ Tech Stack: Flask, PostgreSQL, Charm-Crypto, AWS S3, Cryptography
 
-### 📡 Real-time Packet Capture & Network Anomaly Detection
+### 📡 Real-time Packet Capture & Network Anomaly Detection - Personal Project
 > Heading the development of a <b>real-time traffic capture and anomaly detection platform</b>, combining packet inspection with AI models for <b>live threat identification</b>.  
-> 🔍 Technologies: Scapy, Sklearn, FastAPI, Redis, WebSocket
+> 🔍 Technologies: Pcapy, Sklearn, FastAPI, Redis, WebSocket, libcap
 
-### 🛡️ Proactive Threat Defense with Suricata + Honeypot + IPTables
+### 🛡️ Proactive Threat Defense with Suricata + Honeypot + IPTables - Role: Leader
 > Designing an active defense system that integrates:  
-> - 🛠️ Suricata IDS for pattern-based detection  
+> - 🛠️ Suricata IPS for pattern-based detection  
 > - 🎯 Custom honeypots for attacker engagement  
 > - 🔥 iptables automation for real-time isolation  
 > 💡 Goal: Autonomous and intelligent response to potential breaches
 
-### 🧬 AI-Powered Health Advisory Platform
+### 🧬 AI-Powered Health Advisory Platform - Role: Leader
 > Leading a full-stack AI application for health consultation, including:  
 > - 🤖 AI chatbot for Q&A  
 > - 🖼️ Dermatological image analysis with ML  
 > - 🧠 Personalized health tracking  
-> 👨‍💻 Stack: React, FastAPI, OpenCV, TensorFlow, MongoDB
+> 👨‍💻 Stack: React, Tailwind, ExpressJS, Nginx, MongoDB
 
 ### 🔐 AI Privacy & Prompt Safety Research
 > Initiating research on <b>privacy issues in AI systems</b>, focusing on:  
@@ -58,17 +58,13 @@ As the <b>project lead and core developer</b>, I am currently directing the deve
 ## 🧰 Tech Toolbox
 
 ```bash
-Languages: Python, JavaScript/TypeScript, Go
-Frameworks: FastAPI, Flask, Node.js, React
-Libraries: Sklearn, PyTorch, OpenCV, Transformers
-Tools: Wireshark, Suricata, Docker, Redis, Celery, Nmap
-Security: Charm-Crypto (ABE), AES, iptables, honeypot
+Languages: Python, JavaScript, C, C++, Assembly
+Frameworks: Flask, ExpressJS, React, Tailwind
+Libraries: Sklearn, PyTorch, Transformers, matplotlib, panda, numpy
+Tools: Wireshark, Suricata, Docker, Nmap, Cybersecurity based tools
 Infra: PostgreSQL, MongoDB, S3, Linux
 📫 Let’s Connect!
-GitHub: github.com/yourusername
 
-LinkedIn: linkedin.com/in/yourusername
+LinkedIn: www.linkedin.com/in/theanhnguyen-cybersecurity
 
-Email: yourname[at]email.com
-
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=🔐+Lead+Secure+AI.+🤖+Build+Smarter+Defense.+⚡+Act+in+Real-time." alt="Typing SVG" /> </p> ```
+Email: theanhnguyen16025@gmail.com
