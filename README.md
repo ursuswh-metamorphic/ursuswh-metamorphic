@@ -28,10 +28,6 @@ As the <b>project lead and core developer</b>, I am currently directing the deve
 > Leading the design of a secure <b>hybrid encryption system</b> using <b>CP-ABE + AES</b> to protect Electronic Health Records in cloud infrastructure.  
 > ⚙️ Tech Stack: Flask, PostgreSQL, Charm-Crypto, AWS S3, Cryptography
 
-### 📡 Real-time Packet Capture & Network Anomaly Detection - Personal Project
-> Heading the development of a <b>real-time traffic capture and anomaly detection platform</b>, combining packet inspection with AI models for <b>live threat identification</b>.  
-> 🔍 Technologies: Pcapy, Sklearn, FastAPI, Redis, WebSocket, libcap
-
 ### 🛡️ Proactive Threat Defense with Suricata + Honeypot + IPTables - Role: Leader
 > Designing an active defense system that integrates:  
 > - 🛠️ Suricata IPS for pattern-based detection  
@@ -54,6 +50,14 @@ As the <b>project lead and core developer</b>, I am currently directing the deve
 > 🎯 Outcome: Tools and guidelines for safer LLM interaction
 
 ---
+
+## 🚀 Personal Project
+
+### 📡 Real-time Packet Capture & Network Anomaly Detection - Personal Project
+> Heading the development of a <b>real-time traffic capture and anomaly detection platform</b>, combining packet inspection with AI models for <b>live threat identification</b>.  
+> 🔍 Technologies: Pcapy, Sklearn, FastAPI, Redis, WebSocket, libcap
+
+###Pending...updating
 
 ## 🧰 Tech Toolbox
 
