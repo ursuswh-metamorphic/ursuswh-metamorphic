@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm The Anh!</h1>
 
 <p align="center">
-  <b>AI for Cybersecurity | Malware & Web Vulnerability Analyst | Blockchain Enthusiast</b><br>
+  <b>AI for Cybersecurity | Malware & Web Vulnerability Analyst | Blockchain Enthusiast | Cryptography learner</b><br>
   <i>Driving AI-powered security solutions for a safer digital world.</i>
 </p>
 
