@@ -1,76 +1,65 @@
-<h1 align="center">👋 Hi there, I'm The Anh!</h1>
+<h1 align="center">🦊 Gray Fox is here.</h1>
 
 <p align="center">
-  <b>AI for Cybersecurity | Malware & Web Vulnerability Analyst | Blockchain Enthusiast | Cryptography learner</b><br>
-  <i>Driving AI-powered security solutions for a safer digital world.</i>
+  <img src="./banner_compressed.jpg" alt="Gray Fox Banner" width="100%" />
+</p>
+
+<p align="center">
+  <b>AI for Cybersecurity | Malware & Web Vulnerability Analyst | Blockchain Enthusiast | Cryptography Explorer</b><br>
+  <i>“I don’t chase trends. I build what works. Securely. Intelligently.”</i>
 </p>
 
 ---
 
-## 🔬 About Me
+## 🧠 Who am I?
 
-I’m a <b>research-focused project leader</b> dedicated to integrating <b>Artificial Intelligence</b> into the field of <b>Information Security</b>.  
-My primary focus areas include:
+I’m a **strategic project leader** at the intersection of **Artificial Intelligence** and **Cybersecurity**, always playing the long game.  
+🔎 I don’t just build systems — I **architect intelligent defenses**.
 
-- 🧠 Malware analysis and intelligent threat classification  
-- 🔍 Automated discovery of web vulnerabilities  
-- 🔐 AI safety and privacy, especially PII exposure in LLM prompts
-
-I'm passionate about designing systems that are both <b>intelligent by design</b> and <b>secure by default</b>.
-
----
-
-## 🚀 Projects I'm Leading
-
-As the <b>project lead and core developer</b>, I am currently directing the development of the following applied research projects:
-
-### 🏥 Hybrid ABE + AES for Cloud EHR Protection - Role: Leader
-> Leading the design of a secure <b>hybrid encryption system</b> using <b>CP-ABE + AES</b> to protect Electronic Health Records in cloud infrastructure.  
-> ⚙️ Tech Stack: Flask, PostgreSQL, Charm-Crypto, AWS S3, Cryptography
-
-### 🛡️ Proactive Threat Defense with Suricata + Honeypot + IPTables - Role: Leader
-> Designing an active defense system that integrates:  
-> - 🛠️ Suricata IPS for pattern-based detection  
-> - 🎯 Custom honeypots for attacker engagement  
-> - 🔥 iptables automation for real-time isolation  
-> 💡 Goal: Autonomous and intelligent response to potential breaches
-
-### 🧬 AI-Powered Health Advisory Platform - Role: Leader
-> Leading a full-stack AI application for health consultation, including:  
-> - 🤖 AI chatbot for Q&A  
-> - 🖼️ Dermatological image analysis with ML  
-> - 🧠 Personalized health tracking  
-> 👨‍💻 Stack: React, Tailwind, ExpressJS, Nginx, MongoDB
-
-### 🔐 AI Privacy & Prompt Safety Research
-> Initiating research on <b>privacy issues in AI systems</b>, focusing on:  
-> - 🔍 PII leakage from prompts  
-> - 🔏 Masking/unmasking strategies  
-> - 🤫 Defense techniques like prompt filtering and differential privacy  
-> 🎯 Outcome: Tools and guidelines for safer LLM interaction
+### Focus Areas:
+- 🦠 Advanced Malware Analysis & Threat Intelligence  
+- 🕸️ Autonomous Web Vulnerability Scanning  
+- 🔏 AI Privacy Defense (LLM Safety, Prompt Filtering)  
+- 🧱 Blockchain Tracing + Cryptographic Access Control
 
 ---
 
-## 🚀 Personal Project
+## 🧭 Projects I’m Leading
 
-### 📡 Real-time Packet Capture & Network Anomaly Detection - Personal Project
-> Heading the development of a <b>real-time traffic capture and anomaly detection platform</b>, combining packet inspection with AI models for <b>live threat identification</b>.  
-> 🔍 Technologies: Pcapy, Sklearn, FastAPI, Redis, WebSocket, libcap
+### 🏥 Hybrid ABE + AES for Cloud EHR Protection - Role: Lead
+> Architecting CP-ABE + AES-based encryption system for EHR protection on cloud.  
+> 🛠 Flask | PostgreSQL | AWS S3 | Charm-Crypto
 
-###Pending...updating
+### 🛡️ Proactive Defense: Suricata + Honeypot + IPTables - Role: Lead
+> Building active network defense platform with real-time isolation capabilities.
 
-## 🧰 Tech Toolbox
+### 🧬 AI-Powered Health Advisory Platform - Role: Lead
+> Combining chatbot, image ML, and health tracking into a personalized system.
 
-
-> - Languages: Python, JavaScript, C, C++, Assembly
-> - Frameworks: Flask, ExpressJS, React, Tailwind
-> - Libraries: Sklearn, PyTorch, Transformers, matplotlib, panda, numpy
-> - Tools: Wireshark, Suricata, Docker, Nmap, Cybersecurity based tools
-> - Infra: PostgreSQL, MongoDB, S3, Linux
+### 🔐 AI Privacy Research for LLM Safety
+> Researching prompt leakage, unmasking risk & defense methods (filtering, DP).
 
 ---
 
-### 📬 Connect with Me
+## 💼 Personal Weaponry
+
+### 📡 Real-time Packet Capture & AI Detection
+> Detecting live threats via packet inspection & ML analysis.  
+> 🔍 Tech: Pcapy | FastAPI | Redis | Sklearn
+
+---
+
+## 🧰 Tools of the Trade
+
+- Languages: `Python`, `C`, `C++`, `JavaScript`, `Assembly`
+- Frameworks: Flask, ExpressJS, React, TailwindCSS
+- Libraries: PyTorch, Transformers, Sklearn, Pandas, NumPy
+- Tools: Wireshark, Suricata, Nmap, Docker
+- Infrastructure: Linux, PostgreSQL, MongoDB, AWS S3
+
+---
+
+## 📬 Let’s Link Up
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/theanhnguyen-cybersecurity/)
 [![Email](https://img.shields.io/badge/theanhnguyen16025@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theanhnguyen16025@gmail.com)
@@ -78,24 +67,18 @@ As the <b>project lead and core developer</b>, I am currently directing the deve
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ursuswh-metamorphic&show_icons=true&theme=radical&count_private=true&custom_title=Nguyen%20The%20Anh's%20GitHub%20Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ursuswh-metamorphic&show_icons=true&theme=radical&count_private=true&custom_title=Gray%20Fox's%20Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ursuswh-metamorphic&layout=compact&theme=radical" height="180"/>
 </div>
 
 ---
 
+## 🧠 Philosophy
 
+> “Security without intelligence is fragile.  
+> Intelligence without security is reckless.  
+> I build the bridge between both — with code, clarity, and cold precision.”
 
-### 🤝 Let's Collaborate!
-I’m always open to connecting with fellow researchers, developers, and security enthusiasts who share the same passion for:
-
-🤖 Applying AI in Information Security (malware detection, threat analysis, AI privacy)
-
-🔗 Exploring Blockchain applications in Cybersecurity (tracing, zero-knowledge proofs, secure data sharing)
-
-Feel free to reach out if you're interested in research discussions, open-source collaboration, or just exchanging ideas!
-
-📬 You can connect with me via GitHub, LinkedIn, or email — I’d love to chat!
