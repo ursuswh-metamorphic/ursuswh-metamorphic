@@ -1,9 +1,3 @@
-<h1 align="center">🦊 Gray Fox is here.</h1>
-
-<p align="center">
-  <img src="./banner_compressed.jpg" alt="Gray Fox Banner" width="100%" />
-</p>
-
 <p align="center">
   <b>AI for Cybersecurity | Malware & Web Vulnerability Analyst | Blockchain Enthusiast | Cryptography Explorer</b><br>
   <i>“I don’t chase trends. I build what works. Securely. Intelligently.”</i>
