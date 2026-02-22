@@ -1,5 +1,5 @@
 <p align="center">
-  <b>AI for Cybersecurity | Malware & Web Vulnerability Analyst | Exploit Developer | Red Team</b><br>
+  <b>AI for Cybersecurity | Malware Analyst | Exploit Developer | Red Team</b><br>
   <i>“I don’t chase trends. I build what works. Securely. Intelligently.”</i>
 </p>
 
